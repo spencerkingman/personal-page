@@ -4,7 +4,10 @@ title:  "Strange Young Girls"
 tags: 
     - The Mamas & The Papas 
     - Farewell to the First Golden Era 
-permalink: /personal-page/strange-young-girls/
+categories:
+    - personal-page
+    - songs
+permalink: /strange-young-girls/
 ---
 
 In 2004, I made the strange, abrupt decision to spend the last of my money on a Rental Car, to fill it up with all of my posessions, to leave Chicago and return to Las Vegas, where I had grown up, where my Mom still lived alone. 

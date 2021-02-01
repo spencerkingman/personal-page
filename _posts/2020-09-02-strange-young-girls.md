@@ -4,6 +4,7 @@ title:  "Strange Young Girls"
 tags: 
     - The Mamas & The Papas 
     - Farewell to the First Golden Era 
+category: personal-page songs
 permalink: /strange-young-girls/
 ---
 

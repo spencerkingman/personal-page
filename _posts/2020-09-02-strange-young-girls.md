@@ -9,7 +9,7 @@ permalink: /strange-young-girls/
 
 In 2004, I made the strange, abrupt decision to spend the last of my money on a Rental Car, to fill it up with all of my posessions, to leave Chicago and return to Las Vegas, where I had grown up, where my Mom still lived alone. 
 
-I drove for three days straight, and I remember when I finally arrived at my childhood home in Suburban Las Vegas, I collapsed on the floor as if I had just completed a marathon. My exhaustion wasn't so much physical, but emotional. Staring at the cieling, I still felt like I was moving, torpedoing along the highway. It had been six years since I had left Las Vegas, and I had changed so much since then. Being back in that place, I felt so much relief, but also like I might rip in half.
+I drove for three days straight, and I remember when I finally arrived at my childhood home in Suburban Las Vegas, I collapsed on the floor as if I had just completed a marathon. My exhaustion wasn't so much physical, but emotional. Staring at the cieling, I felt like I was still moving, torpedoing down the highway. It had been six years since I had left Las Vegas, and I had changed so much since then. Being back in that place, I felt so much relief, but also like I might rip in half.
 
 You might think my Mom would be anxious about her 24 year old, college drop-out son moving back in to his childhood bedroom, but honestly, I think she had been scared for me the whole time I was away.
 

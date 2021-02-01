@@ -18,7 +18,7 @@ I set up a little area on the floor of my old bedroom, some sleeping bags and pi
 
 The Mamas & The Papas had put out their first 3 albums in just one year between February 1966 and February 1967. Each of those first 3 albums, had been in at least the top 4 in the US, and _Farewell to the First Golden Era_ consolidated the impressive sprint of hits into one collection. 
 
-Later, I would learn all kinds of sad and disturbing things about The Mamas & The Papas, but at this point all I knew about them was their great early singles, which shine with optimism and gentleness and fun. Pop groups that have girls and boys singing together in this way always evoke something utopian to me, and whoever sequenced this record had the benefit of being able to switch between those ensemble songs, with their big, thick washes of sound, and the more directly delivered solos. If you just consider the vocal entrance of each song, you'll notice how they alternate. 
+Later, I would learn all kinds of sad and disturbing things about The Mamas & The Papas, but at this point all I knew about them was their great early singles, which shine with optimism and gentleness and fun, ballasted by wistful heartache. Pop groups that have girls and boys singing together in this way always evoke something utopian to me, and whoever sequenced this record had the benefit of being able to switch between those ensemble songs, with their big, thick washes of sound, and the more directly delivered solos. If you just consider the vocal entrance of each song, you'll notice how they alternate. 
 
 1. Dedicated To The One I Love - SOLO (but doubled)
 2. Go Where You Wanna Go - CHORAL
@@ -36,9 +36,6 @@ Later, I would learn all kinds of sad and disturbing things about The Mamas & Th
 
 This alternation and balance between solo and ensemble singing mirrors, at the album level, a formula that is at work in their biggest hits (for instance, think of how effective the "Stopped into a church..." entry is in "California Dreamin'"). There is plenty of innocent, low-stakes fun to balance the soaring melancholy that was their calling card. The _Farewell_ collection feels like a perfectly sequenced mixtape.
 
+For me, lying in a sleeping bag on the floor of my old bedroom, the pop energy of the tracks, already naturally high, was turned up even higher by a fluke of my cheap, belt-driven turntable. It spun a little faster than the standard 33 1/3 rpm, making the tempos faster, the pitches higher (and slightly more on key). I only figured this out later, upon hearing a CD version of their greatest hits. I had an extremely negative reaction to the songs playing at their actual speed. In contrast to what I had known, they sounded sluggish and sloppy. It cracked my illusory concept of the band, and I was never able to recover that original feeling for the songs.
 
-
-
-The pop energy of the tracks, already naturally high, was turned up even higher for me by my cheap, belt-driven turntable. It spun a little faster than the standard 33 1/3 rpm, making the tempos faster, the pitches higher (and slightly more on key). I only figured this out later, upon hearing a CD version of their greatest hits. I had an extremely negative reaction to the songs playing at their actual speed. In contrast to what I had known, they sounded sluggish and sloppy. It damaged this beautiful illusion that I had built up about the band. I was never able to recover that original feeling for the songs.
-
-Something analagous happened when I learned more about 
+Something analagous happened when I learned more about the backstories of Mama Cass, John Phillips, etc...

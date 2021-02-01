@@ -20,7 +20,6 @@ description: >- # this means to ignore newlines until "baseurl:"
   I ended up with many hours of songs. I find it enjoyable to listen
   to them and think about my life. Too many thoughts not to try writing them down.
 baseurl: "/personal-page" # the subpath of your site, e.g. /blog
-permalink: /:categories/:title:output_ext
 url: "https://spencerkingman.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  spencerkingman

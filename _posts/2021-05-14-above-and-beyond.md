@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Country Feedback"
+title:  "Above and Beyond"
 tags: 
-    - R.E.M.
-permalink: /country-feedback/
+    - Buck Owens
+permalink: /above-and-beyond/
 published: true
 ---
 
@@ -15,8 +15,7 @@ One instrument that I've always wanted but never had, or even played, is the ped
 
 It has incredible emotional range, even just within country music. Some of those great songs, like "Don't Come Home A-Drinkin (With Lovin' On Your Mind)" by Loretta Lynn or "Above and Beyond" by Buck Owens, show off it's lively and nimble side. On boozy down-tempo songs, like "There Stands the Glass" by Webb Pierce, players can work the pedals to make the instrument "cry". The pedal steel guitar is so flexible that, without a good bit of discipline and restraint, the sound can become rubbery, floppy, hard to take. 
 
-
-
+One could argue that when an instrument is so good at inducing a mood or a feeling in people, almost universally, that the instrument is more likely to be siloed / pigeonholed. Think hawaiian...
 
 
 

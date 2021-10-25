@@ -1,0 +1,34 @@
+---
+---
+
+$base-font-family: 'EB Garamond', serif;
+$base-font-size:   28px; // changed from 16px
+$spacing-unit: 30px;
+$content-width: 1000px;
+$on-laptop: 1000px;
+
+.post-header {
+    margin-bottom: 0;
+
+    .post-meta {
+        margin-bottom: 0;
+    }
+}
+
+// named main.scss to overwrite the main.scss in minima's theme (copied to _sass for reference)
+// importing the whole of minima's styles then overwriting a few.
+@import "{{ site.theme }}"; 
+
+.footer-col-1 {
+    width: -webkit-calc(45% - (#{$spacing-unit} / 2));
+    width:         calc(45% - (#{$spacing-unit} / 2));
+}
+  
+.footer-col-3 {
+    width: -webkit-calc(55% - (#{$spacing-unit} / 2));
+    width:         calc(55% - (#{$spacing-unit} / 2));
+}
+
+.post-tags {
+    margin-bottom: 30px;
+}

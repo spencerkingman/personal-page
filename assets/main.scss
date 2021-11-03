@@ -2,33 +2,59 @@
 ---
 
 $base-font-family: 'EB Garamond', serif;
-$base-font-size:   28px; // changed from 16px
+// $base-font-size:   28px; // changed from 16px
 $spacing-unit: 30px;
-$content-width: 1000px;
-$on-laptop: 1000px;
+// $content-width: 1000px;
+// $on-laptop: 1000px;
 
 .post-header {
-    margin-bottom: 0;
-
-    .post-meta {
+    .post-title {
         margin-bottom: 0;
+    }
+
+    .post-tags {
+        margin-bottom: $spacing-unit;
     }
 }
 
 // named main.scss to overwrite the main.scss in minima's theme (copied to _sass for reference)
 // importing the whole of minima's styles then overwriting a few.
-@import "{{ site.theme }}"; 
+@import '{{ site.theme }}';
 
 .footer-col-1 {
     width: -webkit-calc(45% - (#{$spacing-unit} / 2));
-    width:         calc(45% - (#{$spacing-unit} / 2));
-}
-  
-.footer-col-3 {
-    width: -webkit-calc(55% - (#{$spacing-unit} / 2));
-    width:         calc(55% - (#{$spacing-unit} / 2));
+    width: calc(45% - (#{$spacing-unit} / 2));
 }
 
-.post-tags {
-    margin-bottom: 30px;
+.footer-col-3 {
+    width: -webkit-calc(55% - (#{$spacing-unit} / 2));
+    width: calc(55% - (#{$spacing-unit} / 2));
+}
+
+.post-list {
+    // columns: 2;
+    // -webkit-columns: 2;
+    // -moz-columns: 2;
+    font-size: 1rem;
+    // list-style-type: disc;
+
+    .post-link {
+        display: inline;
+        font-size: 1rem;
+        flex: 1;
+        text-align: right;
+        padding-right: 0.25rem;
+    }
+
+    .post__artist {
+        color: gray;
+        flex: 1;
+        padding-left: 0.25rem;
+    }
+
+    li {
+        margin-right: $spacing-unit;
+        margin-bottom: 0.1rem;
+        display: flex;
+    }
 }

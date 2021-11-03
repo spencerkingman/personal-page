@@ -13,24 +13,25 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Personal Page 
+title: Personal Page
+author: Spencer Kingman
 email: spencerkingman@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Someone asked me to make a playlist of my favorite songs/influences.
-  I ended up with many hours of songs. I find it enjoyable to listen
-  to them and think about my life. Too many thoughts not to try writing them down.
-baseurl: "/personal-page" # the subpath of your site, e.g. /blog
-url: "https://spencerkingman.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+    Someone asked me to make a playlist of my favorite songs/influences.
+    I ended up with many hours of songs. I find it enjoyable to listen
+    to them and think about my life. Too many thoughts not to try writing them down.
+baseurl: '/personal-page' # the subpath of your site, e.g. /blog
+url: 'https://spencerkingman.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
-github_username:  spencerkingman
+github_username: spencerkingman
+
+show_excerpts: false
 
 # Build settings
 markdown: kramdown
 theme: minima
 plugins:
-  - jekyll-feed
-
-
+    - jekyll-feed
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.

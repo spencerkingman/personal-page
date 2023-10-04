@@ -23,5 +23,6 @@
     "typescript.tsdk": "node_modules/typescript/lib",
     "editor.codeActionsOnSave": {
         "source.fixAll.eslint": true
-    }
+    },
+    "colorWheel.settings.workspaceColor": "hsl(253,83%,21%)"
 }

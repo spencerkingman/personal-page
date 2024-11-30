@@ -4,6 +4,8 @@ title: 'Scatterbrain'
 tags:
     - Radiohead
     - Hail to the Thief
+categories:
+    - almost
 permalink: /scatterbrain/
 published: true
 ---

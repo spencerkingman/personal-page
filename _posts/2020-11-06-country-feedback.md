@@ -3,6 +3,8 @@ layout: post
 title: 'Country Feedback'
 tags:
     - R.E.M.
+categories:
+    - almost
 permalink: /country-feedback/
 published: true
 ---

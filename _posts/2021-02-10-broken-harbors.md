@@ -16,7 +16,7 @@ This was a hugely exciting prospect for me, but there was a small wrinkle. The s
 
 Conveniently, I had some friends who needed to go to New York City on that day anyway. I decided that I would teach my normal school day, which ended around 2pm, have my friends pick me up in my old Dodge Shadow, and race off to the city. The drive takes at least 6 or 7 hours, so I figured I could try to sleep in the back of the car, arrive just in time for the concert, play it, then drive a solo all-nighter back to Pittsburgh to teach the next school day.
 
-The plan worked out fine. I played the concert. There were a lot of people there. It was niether my best, nor my worst. I drove back home, high on caffeine, and taught the next school day, exhausted. I don't really remember the details, but I'm here today, so I must have survived.
+The plan worked out fine. I played the concert. There were a lot of people there. It was neither my best, nor my worst. I drove back home, high on caffeine, and taught the next school day, exhausted. I don't really remember the details, but I'm here today, so I must have survived.
 
 The trip did produce one extremely important memory, though.
 
